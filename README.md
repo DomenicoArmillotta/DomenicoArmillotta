@@ -111,6 +111,8 @@
 
 ###
 
+<br clear="both">
+
 <img src="https://raw.githubusercontent.com/DomenicoArmillotta/DomenicoArmillotta/output/snake.svg" alt="Snake animation" />
 
 ###
