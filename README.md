@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Domenico Armillotta from italy<br>-📚 MSc MSc in Artificial Intelligence and Data Engineer at UniPi<br>- 📚 Bachelor's degree : PoliMi  Computer engineering<br>- ⚡ In my free time I shot photos</p>
+<p align="left">I'm Domenico Armillotta from italy<br>-📚 MSc in Artificial Intelligence and Data Engineer at UniPi<br>- 📚 Bachelor's degree : PoliMi  Computer engineering<br>- ⚡ In my free time I shot photos</p>
 
 ###
 
